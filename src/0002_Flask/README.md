@@ -1,10 +1,6 @@
 # README
 
-访问Docker容器内部的Flask
-
-## 参考文档
-
-* [Build your Python image](https://docs.docker.com/language/python/build-images/)
+Flask模板
 
 ## Build
 
