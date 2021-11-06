@@ -1,6 +1,6 @@
 # README
 
-LogTools模板从data.txt中获取数据显示
+LogTools模板从data.txt中获取数据显示MonotoneCubicSpline曲线
 
 ## Build
 
